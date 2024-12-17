@@ -42,8 +42,8 @@ Voici les fichiers principaux :
 2. Clonez ou téléchargez ce projet dans un répertoire local.
 
    ```bash
-   git clone <url-du-repo>
-   cd calculatrice-node
+   git clone https://github.com/kerixOrj/calculatorFr
+   cd calculatorFr
    ```
 
 3. Initialisez le projet (facultatif) :
